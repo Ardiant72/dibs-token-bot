@@ -1,0 +1,14 @@
+{
+  "tokens": [
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "address": "So11111111111111111111111111111111111111112"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    }
+  ]
+}
